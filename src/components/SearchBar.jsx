@@ -40,7 +40,7 @@ const SearchBar = () => {
 				sx={{ p: "10px", color: "red" }}
 				aria-label="search"
 			>
-				<SearchIcon fontSize="small" />
+				<SearchIcon />
 			</IconButton>
 		</Paper>
 	);
